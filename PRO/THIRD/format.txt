@@ -1,0 +1,19 @@
+src/
+├── components/
+│   ├── TaskForm.jsx       # Form to add/edit tasks
+│   ├── TaskList.jsx       # Displays list of tasks
+│   ├── TaskItem.jsx       # Individual task component
+│   ├── FilterControls.jsx # Filtering options
+│   ├── DragDrop.jsx       # Drag and drop container
+│   └── UI/
+│       ├── Button.jsx
+│       ├── Checkbox.jsx
+│       └── Modal.jsx
+├── hooks/
+│   ├── useLocalStorage.js # Custom hook for persistence
+│   └── useTasks.js        # Custom task management hook
+├── pages/
+│   └── Home.jsx          # Main page that combines components
+├── App.jsx
+├── main.jsx
+└── index.css

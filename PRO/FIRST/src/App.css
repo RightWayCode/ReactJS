@@ -1,0 +1,7 @@
+.gradientBg {
+  background: linear-gradient(99deg, #2F94E4 0%, #6F32DE 100%);
+}
+
+.btnPrimary {
+  @apply px-8 py-3 font-semibold text-white transition-all duration-300 bg-purple-400 rounded hover:bg-purple-500;
+}/*# sourceMappingURL=App.css.map */
