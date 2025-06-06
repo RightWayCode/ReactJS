@@ -1,0 +1,1 @@
+here we will practice about routes -both, and redux and its middleware (saga,thunk), and props, arguments, maps, filter, and some other array's functions
